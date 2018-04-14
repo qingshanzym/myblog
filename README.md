@@ -1,2 +1,2 @@
 # myblog
-usr django to build my blog 
+use django to build my blog 
